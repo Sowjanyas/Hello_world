@@ -1,3 +1,3 @@
 # Hello_world
-My first repository
+My first repository.
 I'm learning Github
